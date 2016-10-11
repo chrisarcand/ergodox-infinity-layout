@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-RUN apt-get update && apt-get install -y --no-install-recommends \
+RUN brew update && brew install \
 		binutils-arm-none-eabi \
 		build-essential \
 		ca-certificates \
@@ -13,7 +13,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 		libusb-1.0-0-dev \
 		libnewlib-arm-none-eabi \
 		python3 \
-	&& rm -rf /var/lib/apt/lists/* \
 	&& git clone https://github.com/kiibohd/controller.git \
 	&& mkdir /kiibohd \
 	&& cd controller \
