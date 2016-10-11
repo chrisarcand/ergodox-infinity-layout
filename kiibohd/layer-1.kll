@@ -44,14 +44,15 @@ U"J" : U"P4";
 U"K" : U"P5";
 U"L" : U"P6";
 U"SEMICOLON" : U"P+";
-U"RALT" : U"UP";
-U"RCTRL" : U"DOWN";
 U"M" : U"P1";
 U"COMMA" : U"P2";
 U"PERIOD" : U"P3";
 U"SLASH" : U"P/";
+U"PAGEUP" : U"PAGEUP";
+U"PAGEDOWN" : U"PAGEDOWN";
 U"LEFT" : U"P0";
 U"DOWN" : U"P.";
 U"UP" : U"P=";
-U"RIGHT" : U"PENTER";
+U"RIGHT" : U"PREV LAYER";
+U"RGUI" : U"NEXT LAYER";
 
