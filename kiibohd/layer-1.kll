@@ -27,6 +27,7 @@ U"V" : U"RBRACE";
 U"C" : U"LBRACE";
 U"X" : '^';
 U"Z" : '%';
+U"BACKSPACE" : U"DELETE";
 U"6" : U"F6";
 U"7" : U"F7";
 U"8" : U"F8";

@@ -23,4 +23,6 @@ U"QUOTE" : CONS"MUTE";
 U"RSHIFT" : CONS"PAUSEPLAY";
 U"RIGHT" : U"PREV LAYER";
 U"RGUI" : U"NEXT LAYER";
+U"LALT" : flashMode();
+U"RALT" : flashMode();
 
