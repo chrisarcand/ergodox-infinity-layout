@@ -1,11 +1,8 @@
-Name = "MDErgo1";
 Layout = "Default";
 Base = "Blank";
 Version = "0.1";
-Author = "HaaTa (Jacob Alexander) 2015";
+Author = "Chris Arcand (@chrisarcand)";
 KLL = "0.3c";
-Date = "2015-09-12";
-Generator = "KIICONF 0.2";
 
 U"EQUALS" : CONS"BRIGHTNESSINCREMENT";
 U"E" : U"UP";
@@ -13,10 +10,6 @@ U"BACKSLASH" : CONS"BRIGHTNESSDECREMENT";
 U"F" : U"RIGHT";
 U"D" : U"DOWN";
 U"S" : U"LEFT";
-U"TAB" : ledControl( 4, 15, 0 );
-U"LSHIFT" : ledControl( 3, 15, 0 );
-U"LGUI" : ledControl( 5, 0, 0 );
-U"FUNCTION6" : SYS"SLEEP";
 U"MINUS" : CONS"VOLUMEUP";
 U"RBRACE" : CONS"VOLUMEDOWN";
 U"QUOTE" : CONS"MUTE";

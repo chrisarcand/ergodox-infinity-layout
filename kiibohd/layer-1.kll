@@ -1,11 +1,8 @@
-Name = "MDErgo1";
 Layout = "Default";
 Base = "Blank";
 Version = "0.1";
-Author = "HaaTa (Jacob Alexander) 2015";
+Author = "Chris Arcand (@chrisarcand)";
 KLL = "0.3c";
-Date = "2015-09-12";
-Generator = "KIICONF 0.2";
 
 U"5" : U"F5";
 U"4" : U"F4";
